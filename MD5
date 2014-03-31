@@ -1,0 +1,13 @@
+625f2494486fd38662915e0f539cc5b9 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+82fef34401c53dfd8d569733b4cd99cd *R/FDR.R
+1750d4ebaf77ee3a3835a9831770d416 *R/local_slope.R
+20457a9b6597a474d1de2b2e5577d7b4 *R/ordered_values.R
+6b5d13dbe1d6798aba430b41d77da54a *R/plot_pvalues.R
+29daf5ba91ea74fb1c21d053b1ae8600 *R/t_0.R
+ec4df522d31fbddf35f9d2aa1be40fa2 *man/FDR.Rd
+3b96b18abbe7120d983f84a5d36253af *man/ManyTests-package.Rd
+a27f53b6f6ccec3baabe24e7f05c7bb5 *man/local_slope.Rd
+521c7b1c602da729a249a131baaca427 *man/ordered_values.Rd
+b0bd5e05e170d5354921ba5783861a13 *man/plot_pvalues.Rd
+e54777ccc2d75c55af0143074fc35b8c *man/t_0.Rd
