@@ -13,8 +13,8 @@ Performs the multiple testing procedures of Cox (2011) and Wang and Cox (2007).
 \tabular{ll}{
 Package: \tab ManyTests\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2014-03-31\cr
+Version: \tab 1.1\cr
+Date: \tab 2014-07-24\cr
 License: \tab GPL-2\cr
 }
 %~~ An overview of how to use the package, including the most important functions ~~
