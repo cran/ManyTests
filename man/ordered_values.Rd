@@ -1,7 +1,7 @@
 \name{ordered_values}
 \alias{ordered_values}
 \title{
-Calculate the expected values of the Renyi decomposition.
+Calculate the expected values of the Renyi decomposition
 }
 
 \description{
@@ -25,7 +25,7 @@ A vector of length \code{n}.
 }
 
 \references{
-Cox, D. R. (2011). Discovery: a statistical perspective. \emph{Phystat Conference CERN}.
+Cox, D. R. (2011). Discovery: a statistical perspective. \emph{Phystat Conference CERN}. <doi:10.5170/CERN-2011-006>
 }
 
 \author{

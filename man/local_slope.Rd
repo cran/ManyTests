@@ -1,7 +1,7 @@
 \name{local_slope}
 \alias{local_slope}
 \title{
-Calculate and test the local slope of the plot at large values.
+Calculate and test the local slope of the plot at large values
 }
 
 \description{
@@ -29,7 +29,7 @@ local_slope(p, k)
 }
 
 \references{
-Cox, D. R. (2011). Discovery: a statistical perspective. \emph{Phystat Conference CERN}.
+Cox, D. R. (2011). Discovery: a statistical perspective. \emph{Phystat Conference CERN}. <doi:10.5170/CERN-2011-006>
 }
 
 \author{

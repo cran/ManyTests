@@ -1,1 +1,4 @@
 exportPattern("^[[:alpha:]]+")
+
+importFrom("graphics", "plot")
+importFrom("stats", "pf", "pnorm", "qf")
